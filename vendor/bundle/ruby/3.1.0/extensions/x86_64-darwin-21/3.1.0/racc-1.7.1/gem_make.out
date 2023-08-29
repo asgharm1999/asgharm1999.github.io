@@ -1,0 +1,18 @@
+current directory: /Users/asghar/Desktop/asgharm1999.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+/Users/asghar/.rbenv/versions/3.1.3/bin/ruby -I /Users/asghar/.rbenv/versions/3.1.3/lib/ruby/3.1.0 extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/asghar/Desktop/asgharm1999.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230829-35582-6lv0cy sitelibdir\=./.gem.20230829-35582-6lv0cy clean
+
+current directory: /Users/asghar/Desktop/asgharm1999.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230829-35582-6lv0cy sitelibdir\=./.gem.20230829-35582-6lv0cy
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/asghar/Desktop/asgharm1999.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230829-35582-6lv0cy sitelibdir\=./.gem.20230829-35582-6lv0cy install
+/usr/local/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20230829-35582-6lv0cy/racc
