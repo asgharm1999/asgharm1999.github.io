@@ -29,17 +29,17 @@ Current
 
 Past
 ======
--	2023 Emerging Technologies at the [New York City Mayor’s Office of Technology and Innovation](https://www.nyc.gov/content/oti/pages/) on Smart Cities and IoT program management. 
--	2023 Product Manager Fellow at the New York City Mayor’s Office of Economic Opportunity where I built [MyFile NYC](https://www.newamerica.org/digital-impact-governance-initiative/blog/reflections-myfile-nyc/) with New America Foundation’s Digital Impact and Governance Initiative.
+-	2023 Emerging Technologies at the [New York City Mayor’s Office of Technology and Innovation](https://www.nyc.gov/content/oti/pages/), Research and Collaboration, Strategic Initiatives unit on Smart Cities and IoT program management. 
+-	2023 Product Manager Fellow at the [New York City Mayor’s Office of Economic Opportunity](https://www.nyc.gov/site/opportunity/index.page) where I built [MyFile NYC](https://www.newamerica.org/digital-impact-governance-initiative/blog/reflections-myfile-nyc/) with New America Foundation’s Digital Impact and Governance Initiative.
 -	2023 Project Manager for Students Using Data for Social Good club with [CampaignZero](https://campaignzero.org/).
 -	2020 – 2022 DevOps Software Engineer and Scrum Master at [L3Harris](https://www.l3harris.com/newsroom/editorial/2021/09/network-centric-collaborative-targeting-ncct).
--	2020 Data Science [Civic Digital Fellowship](https://blog.codingitforward.com/meet-the-2020-fellows-u-s-census-bureau-93979a28ccf) at the US Census Bureau’s Center for Behavioral Methods.
+-	2020 Data Science [Civic Digital Fellowship](https://blog.codingitforward.com/meet-the-2020-fellows-u-s-census-bureau-93979a28ccf) at the US Census Bureau’s [Center for Behavioral Methods](https://www.census.gov/topics/research/behavior-science-methods.html#:~:text=The%20Center%20for%20Behavioral%20Science,collection%20instruments%2C%20and%20information%20products.).
 - 2019 [Proactive Health Informatics (ProHealth) Research Experience for Undergrads (REU)](https://prohealth.luddy.indiana.edu/reu/) where I worked on Human-Computer Interaction problems, namely with [Dr Donald Williamson](https://homes.luddy.indiana.edu/williads/) in his research of [signal and speech processing](https://drive.google.com/drive/folders/1Z2B4Jby8T7d1_n8k7OqCp-qYluPplW_l?usp=sharing) studying the loss of hearing using machine learning.
 - 2018 Automation Software Development at Ann Inc. where I used Selenium and TestNG to identify and address bugs for their mobile and desktop websites.
 
 Other Stuff I Have Worked On
 ======
--	My alma mater hosts an entirely student run hackathon each year, [Lehman Hacks](https://lehman-hacks.devpost.com/). In 2019 we brought in over 250 students from the NYC metro area. I gave an Intro to Data Science workshop with a colleague where I used wrote and used this [Kaggle](https://www.kaggle.com/code/asgharm1999/pokemon-classification) notebook as a guide for teaching.
+-	My alma mater hosts an entirely student run hackathon each year, [Lehman Hacks](https://lehman-hacks.devpost.com/). In 2019 we brought in over 250 students from the NYC metro area. I gave an Intro to Data Science workshop with a colleague where I wrote and used this [Kaggle](https://www.kaggle.com/code/asgharm1999/pokemon-classification) notebook as a guide for teaching.
 
 Social Media Presence
 ======
