@@ -34,7 +34,7 @@ Past
 -	2023 Project Manager for Students Using Data for Social Good club with [CampaignZero](https://campaignzero.org/).
 -	2020 – 2022 DevOps Software Engineer and Scrum Master at [L3Harris](https://www.l3harris.com/newsroom/editorial/2021/09/network-centric-collaborative-targeting-ncct).
 -	2020 Data Science [Civic Digital Fellowship](https://blog.codingitforward.com/meet-the-2020-fellows-u-s-census-bureau-93979a28ccf) at the US Census Bureau’s Center for Behavioral Methods.
-- 2019 [Proactive Health Informatics (ProHealth) Research Experience for Undergrads (REU)](https://prohealth.luddy.indiana.edu/reu/) where I worked on Human-Computer Interaction problems, namely with [Dr Donald Williamson](https://homes.luddy.indiana.edu/williads/) in his research of signal and speech processing studying the loss of hearing using machine learning.
+- 2019 [Proactive Health Informatics (ProHealth) Research Experience for Undergrads (REU)](https://prohealth.luddy.indiana.edu/reu/) where I worked on Human-Computer Interaction problems, namely with [Dr Donald Williamson](https://homes.luddy.indiana.edu/williads/) in his research of [signal and speech processing](https://drive.google.com/drive/folders/1Z2B4Jby8T7d1_n8k7OqCp-qYluPplW_l?usp=sharing) studying the loss of hearing using machine learning.
 - 2018 Automation Software Development at Ann Inc. where I used Selenium and TestNG to identify and address bugs for their mobile and desktop websites.
 
 Other Stuff I Have Worked On
