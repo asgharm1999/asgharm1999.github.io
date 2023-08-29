@@ -14,7 +14,7 @@ I have an interdisciplinary background both in technology and in policy. I have 
 
 My research interests are in intelligent systems and cognitive robotics, and the use of robotics for industrial applications. I am especially interested in problems pertaining to autonomous vehicles, computer vision, routing and simulation, graph theory, network algorithms, game theory, and broader artificial intelligence, machine learning, and optimization approaches to their development.
 
-Here is my [CV]("/files/Muhammad Asghar CV.pdf").
+Here is my [CV](/files/Muhammad Asghar CV.pdf).
 
 Interests
 ======
