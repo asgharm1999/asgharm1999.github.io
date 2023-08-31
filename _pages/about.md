@@ -27,7 +27,7 @@ Interests
 
 Current
 ======
--	I am currently working in Dr Sebastian Scherer’s [AirLab](https://theairlab.org/) group at the Robotics Institute. I am investigating the feasibility of drones for active thermographic inspection of aviation assets.
+-	I am currently working in Dr Sebastian Scherer’s [AirLab](https://theairlab.org/) group at the Robotics Institute. I am investigating the feasibility of drones for [active thermographic inspection of aviation assets](https://theairlab.org/team/muhammad_asghar/).
 
 Past
 ======
