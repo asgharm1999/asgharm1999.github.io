@@ -31,7 +31,7 @@ Interests
 
 Current
 ======
--	I am currently a Senior Systems Engineer on the Echo program at Lockheed Marting.
+-	I am currently a Senior Systems Engineer and Scrum Master for the platform team at Lockheed Martin.
 
 Past
 ======
