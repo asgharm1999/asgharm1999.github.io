@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi all, I am Muhammad, an experienced software engineer, data scientist, and product manager. I am currently pursing my Master of Science at Heinz College, Carnegie Mellon University studying [Public Policy, Management, and Data Analytics](https://www.heinz.cmu.edu/programs/public-policy-management-master/data-analytics) as a Cognizant Trust and Safety Scholar. 
+Hi all, Muhammad is an experienced software and systems engineer. In the past, he also worked as a data scientist and product manager. Currently he is at Lockheed Martin working as a Senior Systems Engineer on the platform team, in addition to being the Scrum Master for the team. Muhammad has focused on infrastructure as code (IaC) and platform as a service (PaaS). He recently completed his masters at Carnegie Mellon University in Data Analytics and Management as a Cognizant Trust and Safety Scholar. Muhammad holds dual bachelors in Computer Science and Mathematics from the City University of New York Lehman College. 
 
-I have an interdisciplinary background both in technology and in policy. I have professionally been in the public interest technology/civic technology space, but I started my career as a DevOps Software Engineer at L3Harris in Texas. I worked on the [NCCT](https://www.l3harris.com/newsroom/editorial/2021/09/network-centric-collaborative-targeting-ncct) program.
+In recent years, Muhammad has participated in high research environments and developed pilots for government initiatives. Prior to this masters, he worked as a C#/.NET Software Engineer, and as a Scrum Master for L3Harris Technologies on the [NCCT](https://www.l3harris.com/newsroom/editorial/2021/09/network-centric-collaborative-targeting-ncct) program. Following that he was a researcher at the AirLab, where he used image processing and machine learning to identify subsurface corrosion on aircrafts using UAVs, aiding the lab to win a USAF grant.
 
-My research interests are in intelligent systems and cognitive robotics, and the use of robotics for industrial applications. I am especially interested in problems pertaining to autonomous vehicles, computer vision, routing and simulation, graph theory, network algorithms, game theory, and broader artificial intelligence, machine learning, and optimization approaches to their development.
+In addition, Muhammad is a proponent of public interest technology. He was a Product Manager for the NYC Mayor’s Office of Economic Opportunity where he piloted MyFile NYC in partnership with New America’s Digital Impact and Governance Initiative. Afterwards he worked at the Office of Technology and Innovation on Smart Cities and IoT projects.
+
+He was selected for the highly competitive Coding it Forward Civic Digital Fellowship where he was placed at the US Census Bureau’s Center for Behavioral Methods working with statisticians, demographers, and surveying methodologists leveraging Natural Language Processing to analyze the efficacy of phone calls received. Lastly, he has research experience in signal and speech processing studying the loss of hearing using machine learning at ProHealth, Indiana University Bloomington.
+
+His research interests are in intelligent systems, cognitive robotics, and the economics of creating high-growth products. Problems that excite him are in the confines of generative AI/LLMs, computer vision, routing and simulation, graph theory, network algorithms, game theory, and broader artificial intelligence, machine learning, and optimization approaches to their development.
 
 Here is my [CV](/files/Muhammad Asghar CV.pdf).
 
@@ -27,11 +31,12 @@ Interests
 
 Current
 ======
--	I am currently working in Dr Sebastian Scherer’s [AirLab](https://theairlab.org/) group at the Robotics Institute. I am investigating the feasibility of drones for [active thermographic inspection of aviation assets](https://theairlab.org/team/muhammad_asghar/).
+-	I am currently a Senior Systems Engineer on the Echo program at Lockheed Marting.
 
 Past
 ======
--	2023 Emerging Technologies at the [New York City Mayor’s Office of Technology and Innovation](https://www.nyc.gov/content/oti/pages/), Research and Collaboration, Strategic Initiatives unit on Smart Cities and IoT program management. 
+-	2024 Dr Sebastian Scherer’s [AirLab](https://theairlab.org/) group at the Robotics Institute. Built UAV-based [active thermographic inspection of aviation assets](https://theairlab.org/team/alumni/muhammad_asghar/).
+- 2023 Emerging Technologies at the [New York City Mayor’s Office of Technology and Innovation](https://www.nyc.gov/content/oti/pages/), Research and Collaboration, Strategic Initiatives unit on Smart Cities and IoT program management. 
 -	2023 Product Manager Fellow at the [New York City Mayor’s Office of Economic Opportunity](https://www.nyc.gov/site/opportunity/index.page) where I built [MyFile NYC](https://www.newamerica.org/digital-impact-governance-initiative/blog/reflections-myfile-nyc/) with New America Foundation’s Digital Impact and Governance Initiative.
 -	2023 Project Manager for Students Using Data for Social Good club with [CampaignZero](https://campaignzero.org/).
 -	2020 – 2022 DevOps Software Engineer and Scrum Master at [L3Harris](https://www.l3harris.com/newsroom/editorial/2021/09/network-centric-collaborative-targeting-ncct).
@@ -45,7 +50,6 @@ Other Stuff I Have Worked On
 
 Social Media Presence
 ======
--	In 2023 I was nominated by my director and career services advisor to speak about my internship experience at the [NYC Mayor’s Office of Technology and Innovation]. 
 -	In 2019 I participated in [CUNY Tech Prep](http://cunytechprep.nyc/), which teaches students Full Stack Development (now expanded to include Data Science) in a bootcamp manner for free. I would not have gotten my first job without this! I appeared in a [LinkedIn](https://www.linkedin.com/posts/cuny-tech-prep_new-career-tech-activity-7041174343602614272-2eqq?utm_source=share&utm_medium=member_desktop) and [Instagram](https://www.instagram.com/p/CAbDLCqnH9R/?igshid=MzRlODBiNWFlZA==) post.
 
 
